@@ -1,0 +1,130 @@
+/* Container Layout */
+.map-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* Map and Sidebar Layout */
+.map-content {
+    display: flex;
+    flex: 1;
+}
+
+/* Map Styling */
+.map-view {
+    width: 70%;
+    height: 600px;
+    border-right: 2px solid #ddd;
+}
+
+/* Sidebar Styling */
+.sidebar {
+    width: 30%;
+    padding: 15px;
+    background-color: #f8f9fa;
+    overflow-y: auto;
+    height: 600px;
+    border-left: 2px solid #ddd;
+}
+
+/* Store List Section */
+.store-list h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Store Cards */
+.store-card {
+    background-color: #ffffff;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+    border-left: 4px solid #007bff;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.store-card:hover {
+    background-color: #f0f8ff;
+    transform: translateX(5px);
+}
+
+/* Store Details */
+.store-details {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+}
+
+.store-details h3 {
+    font-size: 20px;
+    color: #007bff;
+}
+
+/* Possible Store List Section */
+.possible-stores {
+    width: 100%;
+    padding: 10px;
+    background-color: #e9ecef;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    gap: 10px;
+}
+
+/* Possible Store Cards */
+.possible-store-card {
+    background-color: #ffffff;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    border-left: 4px solid #28a745;
+    min-width: 200px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.possible-store-card:hover {
+    background-color: #f1f8f4;
+    transform: translateY(-3px);
+}
+
+/* Scrollbar Styling */
+.sidebar::-webkit-scrollbar,
+.possible-stores::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+.sidebar::-webkit-scrollbar-thumb,
+.possible-stores::-webkit-scrollbar-thumb {
+    background-color: #007bff;
+    border-radius: 3px;
+}
+
+.sidebar::-webkit-scrollbar-track,
+.possible-stores::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .map-content {
+        flex-direction: column;
+    }
+
+    .map-view {
+        width: 100%;
+        height: 400px;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+    }
+}

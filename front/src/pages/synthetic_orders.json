@@ -1,0 +1,2102 @@
+[
+    {
+        "order_id": "29b9ecb0-d60e-4e0d-b8bb-29b12f05eeed",
+        "customer_id": "48bb0c5a-d518-46c3-848a-6431dbea5c24",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.45988152988969,
+            73.75093485741384
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.686540",
+        "delivery_timestamp": "2025-03-05T12:23:42.686557",
+        "distance_km": 23.3,
+        "delivery_time_minutes": 216,
+        "order_volume": 8,
+        "store_capacity": 56,
+        "active_orders": 4,
+        "traffic_density": 1.86,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "8e69e83a-8aa1-427e-be68-b332363119a4",
+        "customer_id": "39bd5484-6076-40d8-a8a2-55587257561b",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.462578973587746,
+            73.90946864773336
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.692214",
+        "delivery_timestamp": "2025-03-05T11:03:42.692238",
+        "distance_km": 11.96,
+        "delivery_time_minutes": 136,
+        "order_volume": 2,
+        "store_capacity": 162,
+        "active_orders": 18,
+        "traffic_density": 2.28,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "b009c5e6-c3f6-440c-ac65-028c39c8abc8",
+        "customer_id": "2f7db606-4e51-4c7c-ba78-80942e308fcd",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.509172164463212,
+            73.77657974645622
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.692721",
+        "delivery_timestamp": "2025-03-05T10:34:42.692732",
+        "distance_km": 15.07,
+        "delivery_time_minutes": 107,
+        "order_volume": 2,
+        "store_capacity": 171,
+        "active_orders": 40,
+        "traffic_density": 1.43,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "cd604710-a307-4cc0-a302-d7abafacdce3",
+        "customer_id": "e8caa540-9f67-42fb-a2ad-654003d08c93",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.601218332663176,
+            73.75184418184287
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.693164",
+        "delivery_timestamp": "2025-03-05T11:17:42.693174",
+        "distance_km": 13.99,
+        "delivery_time_minutes": 150,
+        "order_volume": 3,
+        "store_capacity": 150,
+        "active_orders": 48,
+        "traffic_density": 2.15,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "38e934d0-aed3-4e00-a4ca-a052dd9e8cce",
+        "customer_id": "4fe0e360-1787-4417-a174-1404b58b3fbb",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.475923741207794,
+            73.7608388928276
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.693509",
+        "delivery_timestamp": "2025-03-05T11:57:42.693517",
+        "distance_km": 15.8,
+        "delivery_time_minutes": 190,
+        "order_volume": 9,
+        "store_capacity": 142,
+        "active_orders": 20,
+        "traffic_density": 2.41,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "b97647a8-40cf-4c96-ac73-3cbbb8cc2cd2",
+        "customer_id": "91c0d4cb-d914-4aef-9891-9045e076f001",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.57838085325473,
+            73.87376118016586
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.693868",
+        "delivery_timestamp": "2025-03-05T10:25:42.693876",
+        "distance_km": 13.68,
+        "delivery_time_minutes": 98,
+        "order_volume": 3,
+        "store_capacity": 71,
+        "active_orders": 3,
+        "traffic_density": 1.43,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "cf1518b5-cb11-47b9-a011-21fe9ab9cea1",
+        "customer_id": "073e618a-49d0-4e64-988c-6871ae30f8ae",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.461883180583378,
+            73.82833337209964
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.694175",
+        "delivery_timestamp": "2025-03-05T11:54:42.694180",
+        "distance_km": 19.42,
+        "delivery_time_minutes": 187,
+        "order_volume": 9,
+        "store_capacity": 172,
+        "active_orders": 29,
+        "traffic_density": 1.93,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "1ee2aa0a-9d6e-4786-b2ab-9ef572e3c961",
+        "customer_id": "24a578e4-a3de-41b7-8abf-6c69caa263bc",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.494811882746998,
+            73.81541802270677
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.697367",
+        "delivery_timestamp": "2025-03-05T10:12:42.697385",
+        "distance_km": 16.47,
+        "delivery_time_minutes": 85,
+        "order_volume": 8,
+        "store_capacity": 193,
+        "active_orders": 18,
+        "traffic_density": 1.04,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "3de84b18-f385-49f3-bcbd-1847398b3ef4",
+        "customer_id": "0cc9f253-b0a3-4ebd-8d3e-d66fc8ef5b1a",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.570471547682693,
+            73.82152952210296
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.697734",
+        "delivery_timestamp": "2025-03-05T10:11:42.697742",
+        "distance_km": 6.88,
+        "delivery_time_minutes": 84,
+        "order_volume": 5,
+        "store_capacity": 69,
+        "active_orders": 9,
+        "traffic_density": 2.45,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "ce3ce0a4-b4ca-4218-a84e-e683cd69699c",
+        "customer_id": "5a01c784-6cc8-4b5f-a80e-d72ba4671320",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.55013051572474,
+            73.94832829803323
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.698003",
+        "delivery_timestamp": "2025-03-05T10:52:42.698009",
+        "distance_km": 11.35,
+        "delivery_time_minutes": 125,
+        "order_volume": 6,
+        "store_capacity": 148,
+        "active_orders": 30,
+        "traffic_density": 2.21,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "321dee24-6aee-4877-91c5-62b09d7d199a",
+        "customer_id": "bc3203c4-564d-431f-8ff2-8809fd3e484c",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.58447802148328,
+            73.8144685268368
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.698253",
+        "delivery_timestamp": "2025-03-05T09:23:42.698258",
+        "distance_km": 7.23,
+        "delivery_time_minutes": 36,
+        "order_volume": 6,
+        "store_capacity": 132,
+        "active_orders": 20,
+        "traffic_density": 1.02,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "85a610bb-773f-462b-9181-a3abcf3afa22",
+        "customer_id": "57c2c435-c55f-4bc1-915d-48a4aff08828",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.473204578922747,
+            73.86458319214866
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.698500",
+        "delivery_timestamp": "2025-03-05T10:34:42.698507",
+        "distance_km": 13.33,
+        "delivery_time_minutes": 107,
+        "order_volume": 10,
+        "store_capacity": 132,
+        "active_orders": 6,
+        "traffic_density": 1.61,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "d0926265-0ff5-468b-bdae-2ce9eecebaf3",
+        "customer_id": "f65ecbc8-89fe-4b53-add3-fb0932ae5a27",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.463292300601502,
+            73.88391687207816
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.698781",
+        "delivery_timestamp": "2025-03-05T10:33:42.698788",
+        "distance_km": 14.29,
+        "delivery_time_minutes": 106,
+        "order_volume": 9,
+        "store_capacity": 147,
+        "active_orders": 22,
+        "traffic_density": 1.49,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "998dca7c-0c4f-443f-a52b-64800763aa3b",
+        "customer_id": "a7fe786b-33b4-4edb-bafa-764c2642d85b",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.56947967811331,
+            73.89739786950234
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.699047",
+        "delivery_timestamp": "2025-03-05T09:48:42.699053",
+        "distance_km": 9.54,
+        "delivery_time_minutes": 61,
+        "order_volume": 7,
+        "store_capacity": 90,
+        "active_orders": 45,
+        "traffic_density": 1.3,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "9d2e6eca-3348-4990-a82a-77649362f0a5",
+        "customer_id": "8e76d7bc-e48a-4d25-ad2f-a2c05ca1fc6a",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.577323966342274,
+            73.76299925482786
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.699289",
+        "delivery_timestamp": "2025-03-05T10:20:42.699295",
+        "distance_km": 11.25,
+        "delivery_time_minutes": 93,
+        "order_volume": 5,
+        "store_capacity": 141,
+        "active_orders": 28,
+        "traffic_density": 1.66,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "acfa79bd-8ff5-43f0-9330-3bb8d8db2368",
+        "customer_id": "d8185144-e095-47f1-907b-27310e49967a",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.600146467506104,
+            73.8841456941915
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.699500",
+        "delivery_timestamp": "2025-03-05T08:51:42.699505",
+        "distance_km": 0.88,
+        "delivery_time_minutes": 4,
+        "order_volume": 3,
+        "store_capacity": 186,
+        "active_orders": 11,
+        "traffic_density": 1.05,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "baf31333-fff3-454f-9ccc-a627c640e116",
+        "customer_id": "d47f6e0e-526e-45c7-bd6c-6890709db9af",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.45531243802356,
+            73.76353036430342
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.707114",
+        "delivery_timestamp": "2025-03-05T12:05:42.707136",
+        "distance_km": 22.97,
+        "delivery_time_minutes": 198,
+        "order_volume": 8,
+        "store_capacity": 139,
+        "active_orders": 26,
+        "traffic_density": 1.73,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "961c4bdc-bcce-4cc9-b123-55c822c46e54",
+        "customer_id": "02e1b26b-bd4c-4f54-96fc-098fe17becb7",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.581778297646526,
+            73.75488401898045
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.707464",
+        "delivery_timestamp": "2025-03-05T10:17:42.707470",
+        "distance_km": 16.42,
+        "delivery_time_minutes": 90,
+        "order_volume": 6,
+        "store_capacity": 154,
+        "active_orders": 11,
+        "traffic_density": 1.1,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "464f9d4d-0c55-4e0a-a5b7-04d676979e82",
+        "customer_id": "e08d7af5-8b95-4b87-a4f6-22dbcdb15fdc",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.452596290729037,
+            73.83810694598826
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.707915",
+        "delivery_timestamp": "2025-03-05T11:54:42.707924",
+        "distance_km": 15.11,
+        "delivery_time_minutes": 187,
+        "order_volume": 8,
+        "store_capacity": 145,
+        "active_orders": 20,
+        "traffic_density": 2.49,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "f4d6fc4a-d2ea-4153-ba6b-0f198ad725bb",
+        "customer_id": "97be6e52-d651-47b8-857f-efa6fd53324e",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.641525838336506,
+            73.81403849136917
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.708186",
+        "delivery_timestamp": "2025-03-05T13:26:42.708191",
+        "distance_km": 22.52,
+        "delivery_time_minutes": 279,
+        "order_volume": 6,
+        "store_capacity": 140,
+        "active_orders": 1,
+        "traffic_density": 2.48,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "6ba1d863-f522-471b-94f2-0e34bb7daddc",
+        "customer_id": "ec78e088-9dcb-4fd0-898b-168031486cfd",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.606047874852504,
+            73.77602876120298
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.708438",
+        "delivery_timestamp": "2025-03-05T10:15:42.708444",
+        "distance_km": 11.39,
+        "delivery_time_minutes": 88,
+        "order_volume": 10,
+        "store_capacity": 198,
+        "active_orders": 13,
+        "traffic_density": 1.55,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "03a85e90-134b-43eb-8f57-145831d51c49",
+        "customer_id": "6ad671ef-edcb-42ea-b489-8910bbc3f41a",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.546271220880286,
+            73.9225097420923
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.708947",
+        "delivery_timestamp": "2025-03-05T09:39:42.708958",
+        "distance_km": 10.25,
+        "delivery_time_minutes": 52,
+        "order_volume": 5,
+        "store_capacity": 149,
+        "active_orders": 41,
+        "traffic_density": 1.03,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "1ecd142a-94ab-4ee5-944f-8076a12fccf3",
+        "customer_id": "9dbd797a-083a-44fa-be34-b6517b729efa",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.607559463764716,
+            73.78647041144221
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.709208",
+        "delivery_timestamp": "2025-03-05T10:28:42.709213",
+        "distance_km": 10.27,
+        "delivery_time_minutes": 101,
+        "order_volume": 10,
+        "store_capacity": 105,
+        "active_orders": 7,
+        "traffic_density": 1.98,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "1a8be1dc-df64-4e78-a760-eae3c36bd42a",
+        "customer_id": "1390e870-7ca0-4acd-8ebb-4e3c4ccfda51",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.57871584382515,
+            73.81012047188594
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.709524",
+        "delivery_timestamp": "2025-03-05T10:06:42.709531",
+        "distance_km": 7.85,
+        "delivery_time_minutes": 79,
+        "order_volume": 2,
+        "store_capacity": 198,
+        "active_orders": 27,
+        "traffic_density": 2.02,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "2e7525c8-12ef-4f66-b31d-0a171965657e",
+        "customer_id": "4b40fe3a-07e3-4724-bddb-ebd35069f80e",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.600037176096166,
+            73.8698795316227
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.709819",
+        "delivery_timestamp": "2025-03-05T10:32:42.709826",
+        "distance_km": 16.1,
+        "delivery_time_minutes": 105,
+        "order_volume": 6,
+        "store_capacity": 68,
+        "active_orders": 34,
+        "traffic_density": 1.31,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "66c752c0-de0d-4bb1-ad73-7532d5c507ed",
+        "customer_id": "977f57a1-dd69-4507-8131-3c79f14ff459",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.580432096755704,
+            73.82219934538313
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.710100",
+        "delivery_timestamp": "2025-03-05T10:13:42.710108",
+        "distance_km": 8.28,
+        "delivery_time_minutes": 86,
+        "order_volume": 2,
+        "store_capacity": 109,
+        "active_orders": 3,
+        "traffic_density": 2.08,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "c0b171bc-4a78-4983-9afa-b0daaf0ef820",
+        "customer_id": "f74ea014-b9c4-4360-a1ff-51fed2262442",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.485961415302253,
+            73.91057003006807
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.710384",
+        "delivery_timestamp": "2025-03-05T09:49:42.710392",
+        "distance_km": 9.37,
+        "delivery_time_minutes": 62,
+        "order_volume": 4,
+        "store_capacity": 128,
+        "active_orders": 21,
+        "traffic_density": 1.34,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "f44063ff-6f2d-41cf-90c8-405c71997893",
+        "customer_id": "ada59976-2b35-4417-ae5d-95ef426b43f2",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.618407732488095,
+            73.94612466744131
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.710682",
+        "delivery_timestamp": "2025-03-05T10:01:42.710690",
+        "distance_km": 10.81,
+        "delivery_time_minutes": 74,
+        "order_volume": 1,
+        "store_capacity": 176,
+        "active_orders": 5,
+        "traffic_density": 1.37,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "232409cd-4713-4a66-bc8b-8c8c247069ef",
+        "customer_id": "4d3c453c-d09b-4b8c-ae0f-7ea191988332",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.45381577607189,
+            73.80092586188641
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.710962",
+        "delivery_timestamp": "2025-03-05T11:54:42.710969",
+        "distance_km": 17.59,
+        "delivery_time_minutes": 187,
+        "order_volume": 1,
+        "store_capacity": 188,
+        "active_orders": 2,
+        "traffic_density": 2.13,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "a18162a8-bf76-4653-b135-c15816cede2a",
+        "customer_id": "90636ce7-4c92-46d2-921c-0c3b441fff3a",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.571269623689318,
+            73.88936088968025
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.711830",
+        "delivery_timestamp": "2025-03-05T09:08:42.711841",
+        "distance_km": 2.45,
+        "delivery_time_minutes": 21,
+        "order_volume": 9,
+        "store_capacity": 122,
+        "active_orders": 50,
+        "traffic_density": 1.76,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "10fccbf5-f21c-46cd-b9b3-aa3bb19b80c9",
+        "customer_id": "f86c4394-765f-4596-aadc-590273de0ba4",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.60425223691566,
+            73.81842439516522
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.712166",
+        "delivery_timestamp": "2025-03-05T11:07:42.712174",
+        "distance_km": 18.68,
+        "delivery_time_minutes": 140,
+        "order_volume": 9,
+        "store_capacity": 166,
+        "active_orders": 27,
+        "traffic_density": 1.51,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "827be85f-a377-4101-931c-047153bf784a",
+        "customer_id": "4d46b2a1-0b5f-48fe-a942-b936685b3d8e",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.48735317110481,
+            73.87519373217066
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.715425",
+        "delivery_timestamp": "2025-03-05T12:18:42.715442",
+        "distance_km": 17.24,
+        "delivery_time_minutes": 211,
+        "order_volume": 4,
+        "store_capacity": 93,
+        "active_orders": 4,
+        "traffic_density": 2.45,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "ffe8d32d-9269-4097-bec4-d99e654287bf",
+        "customer_id": "8257342b-06fc-4b6d-b220-17486422a4a1",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.586608778088166,
+            73.88098831369375
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.715770",
+        "delivery_timestamp": "2025-03-05T08:53:42.715788",
+        "distance_km": 0.66,
+        "delivery_time_minutes": 6,
+        "order_volume": 6,
+        "store_capacity": 87,
+        "active_orders": 36,
+        "traffic_density": 1.97,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "020cffe1-42a5-4a8c-af64-92e83d29ce3b",
+        "customer_id": "e3a26bc1-3c8d-44be-a6a8-55644cd0f725",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.63586491222356,
+            73.9046807851419
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.716073",
+        "delivery_timestamp": "2025-03-05T09:26:42.716080",
+        "distance_km": 5.35,
+        "delivery_time_minutes": 39,
+        "order_volume": 9,
+        "store_capacity": 55,
+        "active_orders": 39,
+        "traffic_density": 1.48,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "4191a3f3-f0e1-4d31-91bd-353b0a63a399",
+        "customer_id": "8aaa2238-056c-4631-8325-99fc915b39ca",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.570093857594028,
+            73.84553229125056
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.716334",
+        "delivery_timestamp": "2025-03-05T09:46:42.716339",
+        "distance_km": 6.8,
+        "delivery_time_minutes": 59,
+        "order_volume": 4,
+        "store_capacity": 115,
+        "active_orders": 22,
+        "traffic_density": 1.74,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "e18a2df7-e178-46df-befc-ea66d6e0d4b1",
+        "customer_id": "92699ba9-8c15-4d07-b3fd-a109269c33bb",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.489790621688474,
+            73.90877731206523
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.716588",
+        "delivery_timestamp": "2025-03-05T10:46:42.716594",
+        "distance_km": 15.8,
+        "delivery_time_minutes": 119,
+        "order_volume": 5,
+        "store_capacity": 129,
+        "active_orders": 37,
+        "traffic_density": 1.52,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "3836b450-69df-45c0-9dc9-ff4f2de32558",
+        "customer_id": "cbf50bf7-a82d-4702-9942-106e7366de4f",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.622815042236898,
+            73.82103413056815
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.716871",
+        "delivery_timestamp": "2025-03-05T12:11:42.716877",
+        "distance_km": 20.34,
+        "delivery_time_minutes": 204,
+        "order_volume": 1,
+        "store_capacity": 148,
+        "active_orders": 9,
+        "traffic_density": 2.02,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "6958323d-874d-49b7-ae64-97cbec6a3021",
+        "customer_id": "0571a164-2110-45a3-a07e-55f8c1b63ee3",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.607283104446726,
+            73.91804671106361
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.717125",
+        "delivery_timestamp": "2025-03-05T09:30:42.717130",
+        "distance_km": 4.15,
+        "delivery_time_minutes": 43,
+        "order_volume": 1,
+        "store_capacity": 72,
+        "active_orders": 32,
+        "traffic_density": 2.12,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "5097e8eb-2cde-4f2b-9ed4-14b97475c48a",
+        "customer_id": "628496e7-ca6b-46ee-b3cc-472578c66b92",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.644045114264106,
+            73.87594405265708
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.721029",
+        "delivery_timestamp": "2025-03-05T09:05:42.721045",
+        "distance_km": 1.64,
+        "delivery_time_minutes": 18,
+        "order_volume": 9,
+        "store_capacity": 149,
+        "active_orders": 17,
+        "traffic_density": 2.31,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "6b189cf4-0a31-4270-819b-5816936dbf34",
+        "customer_id": "ff332217-e225-427b-952f-8a07a8afacf2",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.48239167246438,
+            73.93873135302952
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.721332",
+        "delivery_timestamp": "2025-03-05T09:25:42.721339",
+        "distance_km": 3.99,
+        "delivery_time_minutes": 38,
+        "order_volume": 4,
+        "store_capacity": 57,
+        "active_orders": 2,
+        "traffic_density": 1.91,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "46b9626e-d57f-43dd-812e-a24a4377e350",
+        "customer_id": "dbeadb5d-c39d-4ea8-aafb-ad456387015e",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.571459744643345,
+            73.89730974789401
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.721618",
+        "delivery_timestamp": "2025-03-05T09:06:42.721710",
+        "distance_km": 2.79,
+        "delivery_time_minutes": 19,
+        "order_volume": 6,
+        "store_capacity": 182,
+        "active_orders": 49,
+        "traffic_density": 1.39,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "1295c3c1-0b8d-473f-b984-e831d7449e59",
+        "customer_id": "590bcc33-3dc1-4a20-9af8-24d3947c7b5f",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.53007871926639,
+            73.88127450549227
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.721992",
+        "delivery_timestamp": "2025-03-05T09:36:42.721998",
+        "distance_km": 5.41,
+        "delivery_time_minutes": 49,
+        "order_volume": 4,
+        "store_capacity": 86,
+        "active_orders": 14,
+        "traffic_density": 1.84,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "49c4ae81-c9ce-4b68-bf74-de9c19304ce8",
+        "customer_id": "9c950303-57b5-4735-bdec-9414fc749d8b",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.61288695064852,
+            73.82932433959895
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.722238",
+        "delivery_timestamp": "2025-03-05T09:33:42.722245",
+        "distance_km": 6.05,
+        "delivery_time_minutes": 46,
+        "order_volume": 7,
+        "store_capacity": 115,
+        "active_orders": 49,
+        "traffic_density": 1.53,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "647b7e1d-ec22-4db6-8801-b3e4db310d12",
+        "customer_id": "58e161e7-fcef-43b2-9008-2d2a7ac000e9",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.640763941210032,
+            73.77133030944954
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.722487",
+        "delivery_timestamp": "2025-03-05T09:59:42.722493",
+        "distance_km": 7.92,
+        "delivery_time_minutes": 72,
+        "order_volume": 10,
+        "store_capacity": 140,
+        "active_orders": 20,
+        "traffic_density": 1.83,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "c41d10b7-5914-4c17-be85-144423314d8e",
+        "customer_id": "f00f3c5e-c44d-407e-9ece-857500a6ddb1",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.50253341607829,
+            73.86128115635663
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.722772",
+        "delivery_timestamp": "2025-03-05T09:33:42.722778",
+        "distance_km": 6.97,
+        "delivery_time_minutes": 46,
+        "order_volume": 3,
+        "store_capacity": 100,
+        "active_orders": 20,
+        "traffic_density": 1.34,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "85ecf36a-6603-4505-b4ea-077855c98777",
+        "customer_id": "3c6eac71-061e-447e-ae20-23f70b087619",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.6492984208437,
+            73.84089245190573
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.723033",
+        "delivery_timestamp": "2025-03-05T09:39:42.723040",
+        "distance_km": 4.74,
+        "delivery_time_minutes": 52,
+        "order_volume": 2,
+        "store_capacity": 90,
+        "active_orders": 12,
+        "traffic_density": 2.21,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "ebb7b929-c9b2-4874-bfb4-d54df2dc6dff",
+        "customer_id": "05adba80-1efe-4128-a169-381b0c38bf12",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.477003449176724,
+            73.79303436093296
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.723303",
+        "delivery_timestamp": "2025-03-05T11:54:42.723311",
+        "distance_km": 19.31,
+        "delivery_time_minutes": 187,
+        "order_volume": 1,
+        "store_capacity": 106,
+        "active_orders": 12,
+        "traffic_density": 1.94,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "231f1e2e-5cbc-4e4c-80af-68e089994ffc",
+        "customer_id": "5c1bf1c0-3ec1-4251-8933-2dc4e9bd3579",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.51346934140634,
+            73.78069682468745
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.723597",
+        "delivery_timestamp": "2025-03-05T10:28:42.723605",
+        "distance_km": 16.69,
+        "delivery_time_minutes": 101,
+        "order_volume": 4,
+        "store_capacity": 163,
+        "active_orders": 34,
+        "traffic_density": 1.21,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "11fd6d79-8cb6-4679-a3f4-a51d7f1935f1",
+        "customer_id": "9d086b91-58ef-4f2e-83ba-ec4ec018af54",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.513966503311906,
+            73.79811060181031
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.728135",
+        "delivery_timestamp": "2025-03-05T11:18:42.728154",
+        "distance_km": 12.44,
+        "delivery_time_minutes": 151,
+        "order_volume": 7,
+        "store_capacity": 88,
+        "active_orders": 47,
+        "traffic_density": 2.43,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "6fb5cbdc-85b1-4b6c-bc7b-b140cf289ae2",
+        "customer_id": "97fe92f4-e717-4f34-97dd-3fd4dc8afce0",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.541155054155414,
+            73.87143419504805
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.731737",
+        "delivery_timestamp": "2025-03-05T10:38:42.731757",
+        "distance_km": 9.88,
+        "delivery_time_minutes": 111,
+        "order_volume": 4,
+        "store_capacity": 137,
+        "active_orders": 7,
+        "traffic_density": 2.26,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "6eb1dbe2-d73b-4e9f-9efa-ae0ee1ccbb73",
+        "customer_id": "ff095333-4017-4a62-b091-f06463835a97",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.64626134006417,
+            73.75530740646302
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.732066",
+        "delivery_timestamp": "2025-03-05T11:53:42.732073",
+        "distance_km": 18.35,
+        "delivery_time_minutes": 186,
+        "order_volume": 5,
+        "store_capacity": 69,
+        "active_orders": 47,
+        "traffic_density": 2.04,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "11ba464a-166e-4d99-b94f-6fdbb55ad49a",
+        "customer_id": "718a7f5d-c969-4e4a-9fd5-c1d1949bfcaf",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.529669461090865,
+            73.93490552889081
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.732315",
+        "delivery_timestamp": "2025-03-05T10:10:42.732320",
+        "distance_km": 8.21,
+        "delivery_time_minutes": 83,
+        "order_volume": 9,
+        "store_capacity": 112,
+        "active_orders": 11,
+        "traffic_density": 2.02,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "ba4804af-cb7e-4dca-957b-961d569264a7",
+        "customer_id": "761b96b4-60f7-4465-b492-7b9db163e771",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.50774595080584,
+            73.89136244995018
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.732569",
+        "delivery_timestamp": "2025-03-05T10:35:42.732575",
+        "distance_km": 9.41,
+        "delivery_time_minutes": 108,
+        "order_volume": 8,
+        "store_capacity": 134,
+        "active_orders": 14,
+        "traffic_density": 2.31,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "fc858b46-56b9-4d59-914b-ee361781f59f",
+        "customer_id": "73e7913a-5ff2-4cad-92da-4e59b922c838",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.634434902236872,
+            73.89991515923951
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.732850",
+        "delivery_timestamp": "2025-03-05T09:03:42.732858",
+        "distance_km": 2.06,
+        "delivery_time_minutes": 16,
+        "order_volume": 4,
+        "store_capacity": 114,
+        "active_orders": 15,
+        "traffic_density": 1.55,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "2c3f82c5-4c28-4159-91da-b9198ef4e218",
+        "customer_id": "4ba651c8-c55d-4970-85d9-8ab0c2f9ffdf",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.48398270911554,
+            73.77177548448594
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.733097",
+        "delivery_timestamp": "2025-03-05T10:25:42.733104",
+        "distance_km": 17.46,
+        "delivery_time_minutes": 98,
+        "order_volume": 8,
+        "store_capacity": 152,
+        "active_orders": 38,
+        "traffic_density": 1.13,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "4ab09da6-e9d5-455d-b4fa-e826057c394d",
+        "customer_id": "0d89bb1c-b8b2-4153-8150-37821355a95b",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.46819008773303,
+            73.8122761262583
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.733359",
+        "delivery_timestamp": "2025-03-05T10:08:42.733364",
+        "distance_km": 10.31,
+        "delivery_time_minutes": 81,
+        "order_volume": 10,
+        "store_capacity": 195,
+        "active_orders": 36,
+        "traffic_density": 1.58,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "dbbb82c3-2ca9-477b-9854-7cad5ddb04de",
+        "customer_id": "689db0be-18c6-418e-aff1-7f9a139124eb",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.489775474698924,
+            73.8240255766432
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.733611",
+        "delivery_timestamp": "2025-03-05T10:39:42.733617",
+        "distance_km": 16.87,
+        "delivery_time_minutes": 112,
+        "order_volume": 8,
+        "store_capacity": 180,
+        "active_orders": 38,
+        "traffic_density": 1.33,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "2252f78a-9762-4135-9757-a4f1131185bb",
+        "customer_id": "ffef7795-df9f-40fe-9ca1-99748c457d83",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.481067531310398,
+            73.91282220038813
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.733918",
+        "delivery_timestamp": "2025-03-05T11:13:42.733927",
+        "distance_km": 12.73,
+        "delivery_time_minutes": 146,
+        "order_volume": 3,
+        "store_capacity": 172,
+        "active_orders": 13,
+        "traffic_density": 2.31,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "c00fc97b-f1e5-4272-ad2a-259e6a82e8b4",
+        "customer_id": "1146b1b2-d524-4e45-b7af-48dec5e6d8c2",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.614586230959418,
+            73.79953686700698
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.734204",
+        "delivery_timestamp": "2025-03-05T09:22:42.734213",
+        "distance_km": 5.73,
+        "delivery_time_minutes": 35,
+        "order_volume": 6,
+        "store_capacity": 96,
+        "active_orders": 46,
+        "traffic_density": 1.25,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "28a5ae86-cf0f-4b2a-8220-460cf9c6c525",
+        "customer_id": "8eb40df3-634a-451c-beff-a62dc7594042",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.64602547075405,
+            73.79438711021601
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.734498",
+        "delivery_timestamp": "2025-03-05T09:38:42.734507",
+        "distance_km": 9.31,
+        "delivery_time_minutes": 51,
+        "order_volume": 8,
+        "store_capacity": 51,
+        "active_orders": 48,
+        "traffic_density": 1.11,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "5c349704-0da7-4934-b99c-ce1ae4cf6afa",
+        "customer_id": "1362a1be-ef85-4887-ad0a-7b8ac5ff1781",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.51591048310696,
+            73.7787088189756
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.738420",
+        "delivery_timestamp": "2025-03-05T10:56:42.738440",
+        "distance_km": 15.55,
+        "delivery_time_minutes": 129,
+        "order_volume": 5,
+        "store_capacity": 105,
+        "active_orders": 39,
+        "traffic_density": 1.67,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "382aee2a-528f-4409-8db9-a5262825dcfc",
+        "customer_id": "80a7f749-f26d-467c-9280-57c96aafe38c",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.60954972372537,
+            73.84880417675288
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.738789",
+        "delivery_timestamp": "2025-03-05T09:34:42.738796",
+        "distance_km": 4.08,
+        "delivery_time_minutes": 47,
+        "order_volume": 10,
+        "store_capacity": 173,
+        "active_orders": 21,
+        "traffic_density": 2.33,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "9e9bef9c-c4fb-4be6-8b99-1f4f8c8bc3ef",
+        "customer_id": "54f2cb28-c841-4ef1-b30e-78da47f4f82f",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.61009400662574,
+            73.83783579849431
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.739077",
+        "delivery_timestamp": "2025-03-05T09:20:42.739083",
+        "distance_km": 5.11,
+        "delivery_time_minutes": 33,
+        "order_volume": 9,
+        "store_capacity": 127,
+        "active_orders": 5,
+        "traffic_density": 1.31,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "4b720fcb-501c-414f-b145-2517e1181493",
+        "customer_id": "2fdd0612-5f25-4091-bbe3-993dded43d2b",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.544552030796915,
+            73.8529270660057
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.739671",
+        "delivery_timestamp": "2025-03-05T10:53:42.739684",
+        "distance_km": 11.14,
+        "delivery_time_minutes": 126,
+        "order_volume": 6,
+        "store_capacity": 143,
+        "active_orders": 3,
+        "traffic_density": 2.27,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "96f41340-19fa-4e5a-aa25-ff9e63cb4b38",
+        "customer_id": "54aaac81-565f-4e0a-ac6b-f210b768a280",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.504485087448757,
+            73.8478944643338
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.739977",
+        "delivery_timestamp": "2025-03-05T10:10:42.739983",
+        "distance_km": 8.19,
+        "delivery_time_minutes": 83,
+        "order_volume": 4,
+        "store_capacity": 78,
+        "active_orders": 2,
+        "traffic_density": 2.04,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "17e9226c-f3ba-4c78-b70a-d77d2d514a7c",
+        "customer_id": "91aafae2-d123-4e31-b1c7-34efd391a54e",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.54590201691629,
+            73.75483839950844
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.741215",
+        "delivery_timestamp": "2025-03-05T10:42:42.741230",
+        "distance_km": 14.42,
+        "delivery_time_minutes": 115,
+        "order_volume": 6,
+        "store_capacity": 73,
+        "active_orders": 26,
+        "traffic_density": 1.61,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "2a19d467-ff38-4131-ae5f-600cae848619",
+        "customer_id": "84ac228b-3ac2-47cb-87c2-7883c8edab2a",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.523375313418665,
+            73.87986079689685
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.741539",
+        "delivery_timestamp": "2025-03-05T09:20:42.741545",
+        "distance_km": 6.12,
+        "delivery_time_minutes": 33,
+        "order_volume": 7,
+        "store_capacity": 184,
+        "active_orders": 24,
+        "traffic_density": 1.08,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "20aaaa86-a1a0-4b9b-a72f-f516cccc6947",
+        "customer_id": "49c01264-9d22-4b65-8857-821434e6e10d",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.481698276683904,
+            73.81682131147238
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.741841",
+        "delivery_timestamp": "2025-03-05T10:17:42.741848",
+        "distance_km": 14.08,
+        "delivery_time_minutes": 90,
+        "order_volume": 2,
+        "store_capacity": 185,
+        "active_orders": 30,
+        "traffic_density": 1.28,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "6a24e66b-f73b-4f89-b474-c26acebb0bf0",
+        "customer_id": "782d1adf-833d-4dc6-a6cf-5674c005211d",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.584776884330783,
+            73.8143573197209
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.742091",
+        "delivery_timestamp": "2025-03-05T10:09:42.742096",
+        "distance_km": 7.24,
+        "delivery_time_minutes": 82,
+        "order_volume": 4,
+        "store_capacity": 163,
+        "active_orders": 33,
+        "traffic_density": 2.29,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "7b47a4e7-56cd-41c7-bddb-2925b2b7db04",
+        "customer_id": "db59a0da-fb35-4892-ab09-1a43b825f409",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.61841195701144,
+            73.8947120886915
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.742335",
+        "delivery_timestamp": "2025-03-05T09:06:42.742342",
+        "distance_km": 1.94,
+        "delivery_time_minutes": 19,
+        "order_volume": 5,
+        "store_capacity": 141,
+        "active_orders": 3,
+        "traffic_density": 2.01,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "47579ada-b9b9-4e62-9d7e-dc4eeccd4e87",
+        "customer_id": "7d5d7939-1973-4281-966a-a2b3dda72f08",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.461626374304135,
+            73.92426378602593
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.742578",
+        "delivery_timestamp": "2025-03-05T11:44:42.742584",
+        "distance_km": 15.13,
+        "delivery_time_minutes": 177,
+        "order_volume": 7,
+        "store_capacity": 130,
+        "active_orders": 11,
+        "traffic_density": 2.35,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "39b11c06-d413-43f8-ba2b-cd00c7177e28",
+        "customer_id": "d74517d7-4b5f-4cf9-a5af-3c245951f401",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.461907872815875,
+            73.84926022705599
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.742872",
+        "delivery_timestamp": "2025-03-05T10:58:42.742881",
+        "distance_km": 18.91,
+        "delivery_time_minutes": 131,
+        "order_volume": 6,
+        "store_capacity": 78,
+        "active_orders": 24,
+        "traffic_density": 1.4,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "a793bde7-1ea2-4230-91db-c0f6d563e8f7",
+        "customer_id": "72df8403-7ed2-40e2-bea9-1a69200a6e44",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.63472839128929,
+            73.81189074879076
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.743147",
+        "delivery_timestamp": "2025-03-05T13:00:42.743153",
+        "distance_km": 21.96,
+        "delivery_time_minutes": 253,
+        "order_volume": 2,
+        "store_capacity": 125,
+        "active_orders": 28,
+        "traffic_density": 2.31,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "a281cebe-e653-4d66-9fb1-6cb9950e5464",
+        "customer_id": "6a98fc11-b0f5-4203-9afa-26db2f4bb5f6",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.587482496050395,
+            73.79093346254982
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.743423",
+        "delivery_timestamp": "2025-03-05T11:00:42.743430",
+        "distance_km": 12.71,
+        "delivery_time_minutes": 133,
+        "order_volume": 9,
+        "store_capacity": 140,
+        "active_orders": 50,
+        "traffic_density": 2.1,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "278607bb-442a-4a0e-bca9-e4e9da2b0288",
+        "customer_id": "ebbf3a9e-e435-4b6f-b106-49e69420a11d",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.62319556835497,
+            73.82495759279297
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.748232",
+        "delivery_timestamp": "2025-03-05T10:00:42.748254",
+        "distance_km": 10.7,
+        "delivery_time_minutes": 73,
+        "order_volume": 8,
+        "store_capacity": 58,
+        "active_orders": 17,
+        "traffic_density": 1.37,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "9aeb2ab2-1f56-47df-86a5-c44b165213f4",
+        "customer_id": "8d948df8-3533-4510-b69d-264dd95556de",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.50038474238791,
+            73.88222610238445
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.748615",
+        "delivery_timestamp": "2025-03-05T09:50:42.748623",
+        "distance_km": 8.31,
+        "delivery_time_minutes": 63,
+        "order_volume": 4,
+        "store_capacity": 162,
+        "active_orders": 4,
+        "traffic_density": 1.54,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "ab971b29-3661-4654-b11f-a5f05c99ffc4",
+        "customer_id": "6f5b5169-6a0f-4848-819e-6f7286590368",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.517251995847648,
+            73.87397788993083
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.748941",
+        "delivery_timestamp": "2025-03-05T10:11:42.748950",
+        "distance_km": 7.02,
+        "delivery_time_minutes": 84,
+        "order_volume": 1,
+        "store_capacity": 168,
+        "active_orders": 45,
+        "traffic_density": 2.4,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "a9d83ea1-f173-4e1d-ad11-29a6f9241a6f",
+        "customer_id": "f3027f39-2ba9-4196-942b-cc351fbfa049",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.50320368591864,
+            73.79424504416934
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.749228",
+        "delivery_timestamp": "2025-03-05T10:21:42.749237",
+        "distance_km": 13.57,
+        "delivery_time_minutes": 94,
+        "order_volume": 10,
+        "store_capacity": 187,
+        "active_orders": 41,
+        "traffic_density": 1.39,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "97fbc553-35a5-4eab-8502-513efe4eb5a1",
+        "customer_id": "fcee9084-a528-48be-b91a-d6aff634eca3",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.47071182057905,
+            73.78554678603186
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.749528",
+        "delivery_timestamp": "2025-03-05T12:00:42.749537",
+        "distance_km": 17.17,
+        "delivery_time_minutes": 193,
+        "order_volume": 8,
+        "store_capacity": 155,
+        "active_orders": 42,
+        "traffic_density": 2.26,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "7a8ba7ce-9fca-4b5b-822a-8fbad839b331",
+        "customer_id": "ebadf959-11ed-44e1-82c7-81e002639c1c",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.585352509872983,
+            73.77076575344172
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.751847",
+        "delivery_timestamp": "2025-03-05T12:48:42.751876",
+        "distance_km": 20.21,
+        "delivery_time_minutes": 241,
+        "order_volume": 5,
+        "store_capacity": 113,
+        "active_orders": 18,
+        "traffic_density": 2.39,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "41fbc908-49ab-4646-b223-4a3ba0605dd5",
+        "customer_id": "ffa6fe43-41ef-46fe-9907-f996ee8d8b69",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.525656581099835,
+            73.75021449767942
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.752130",
+        "delivery_timestamp": "2025-03-05T11:40:42.752135",
+        "distance_km": 18.34,
+        "delivery_time_minutes": 173,
+        "order_volume": 9,
+        "store_capacity": 64,
+        "active_orders": 28,
+        "traffic_density": 1.89,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "aa687468-12b9-40bc-8769-d622dbfb1b32",
+        "customer_id": "9accc1ec-093f-4168-9a9b-b24c8ef50515",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.569889540390548,
+            73.80334516436439
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.754021",
+        "delivery_timestamp": "2025-03-05T10:08:42.754034",
+        "distance_km": 8.72,
+        "delivery_time_minutes": 81,
+        "order_volume": 4,
+        "store_capacity": 90,
+        "active_orders": 27,
+        "traffic_density": 1.88,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "86f000b7-662b-4fe6-ab61-a212f95b50bb",
+        "customer_id": "8ac72e73-a70d-4662-9975-1b58288dee71",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.45176065925337,
+            73.82128810868794
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.754324",
+        "delivery_timestamp": "2025-03-05T12:13:42.754333",
+        "distance_km": 16.85,
+        "delivery_time_minutes": 206,
+        "order_volume": 6,
+        "store_capacity": 195,
+        "active_orders": 28,
+        "traffic_density": 2.45,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "f0a0a32d-775d-40e5-8c60-b715a2c0ebb3",
+        "customer_id": "8cc0ffb2-c5da-4347-af0e-3d761752c3c7",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.600992848782695,
+            73.80367620808673
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.754617",
+        "delivery_timestamp": "2025-03-05T10:02:42.754624",
+        "distance_km": 11.71,
+        "delivery_time_minutes": 75,
+        "order_volume": 5,
+        "store_capacity": 167,
+        "active_orders": 22,
+        "traffic_density": 1.29,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "5338e91b-b25b-4040-b271-3f70ec130dce",
+        "customer_id": "8c223f84-baf3-4f59-a514-08c76c5c3d11",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.474761872645107,
+            73.9346303845033
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.754915",
+        "delivery_timestamp": "2025-03-05T12:46:42.754922",
+        "distance_km": 20.59,
+        "delivery_time_minutes": 239,
+        "order_volume": 2,
+        "store_capacity": 121,
+        "active_orders": 28,
+        "traffic_density": 2.32,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "65beac98-d67c-4774-8325-00dba6a3cbaa",
+        "customer_id": "b07756f1-11ab-4d12-8584-b3bef8be7d43",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.510458722812785,
+            73.80650638536409
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.755168",
+        "delivery_timestamp": "2025-03-05T10:32:42.755173",
+        "distance_km": 12.11,
+        "delivery_time_minutes": 105,
+        "order_volume": 7,
+        "store_capacity": 69,
+        "active_orders": 3,
+        "traffic_density": 1.75,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "acb330a7-011d-4d7d-93b7-cfa6c4c72862",
+        "customer_id": "206b8665-27c2-45a4-950f-a69eb6f1867c",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.466221775670704,
+            73.93730938772681
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.755407",
+        "delivery_timestamp": "2025-03-05T10:28:42.755411",
+        "distance_km": 11.91,
+        "delivery_time_minutes": 101,
+        "order_volume": 8,
+        "store_capacity": 132,
+        "active_orders": 43,
+        "traffic_density": 1.71,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "83f93d5f-1a0d-432d-8300-b915c07de12a",
+        "customer_id": "a8ff01e8-7c64-4c4f-bf73-7c9e0ef922e7",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.52907364718667,
+            73.8731816263408
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.755667",
+        "delivery_timestamp": "2025-03-05T10:40:42.755673",
+        "distance_km": 12.67,
+        "delivery_time_minutes": 113,
+        "order_volume": 2,
+        "store_capacity": 51,
+        "active_orders": 14,
+        "traffic_density": 1.79,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "8bde10cf-ad9d-4747-afa4-9d28d015dad2",
+        "customer_id": "b30f5642-d9a2-4189-940e-2b765c956f51",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.597891944688165,
+            73.82796560539023
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.755924",
+        "delivery_timestamp": "2025-03-05T09:19:42.755930",
+        "distance_km": 5.79,
+        "delivery_time_minutes": 32,
+        "order_volume": 4,
+        "store_capacity": 59,
+        "active_orders": 37,
+        "traffic_density": 1.13,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "79eeb3c9-9645-4f82-a408-22472afa53e6",
+        "customer_id": "1de157b1-b5dc-4932-9903-1c92c1f83e50",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.561866582825193,
+            73.75340032368291
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.756164",
+        "delivery_timestamp": "2025-03-05T10:08:42.756168",
+        "distance_km": 14.04,
+        "delivery_time_minutes": 81,
+        "order_volume": 4,
+        "store_capacity": 142,
+        "active_orders": 31,
+        "traffic_density": 1.17,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "e25053ab-5e03-4af7-81c4-6466d68a22b7",
+        "customer_id": "0830aff7-28b4-4ee3-b218-43de52a938ff",
+        "store_location": [
+            18.592372809052968,
+            73.88250720090902
+        ],
+        "customer_location": [
+            18.49866265910268,
+            73.76284604687011
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.762215",
+        "delivery_timestamp": "2025-03-05T10:54:42.762237",
+        "distance_km": 16.35,
+        "delivery_time_minutes": 127,
+        "order_volume": 10,
+        "store_capacity": 160,
+        "active_orders": 10,
+        "traffic_density": 1.56,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "4f447363-4ae1-4c4b-94cd-cdad1d4be506",
+        "customer_id": "167a6f65-6676-477b-be05-6f3b587ac0a5",
+        "store_location": [
+            18.64066035151009,
+            73.84640161864017
+        ],
+        "customer_location": [
+            18.451632602544006,
+            73.85540485331029
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.762519",
+        "delivery_timestamp": "2025-03-05T11:13:42.762525",
+        "distance_km": 20.94,
+        "delivery_time_minutes": 146,
+        "order_volume": 5,
+        "store_capacity": 54,
+        "active_orders": 8,
+        "traffic_density": 1.4,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "b94e7cfe-e270-4e4c-9b1c-ab84a58b95cc",
+        "customer_id": "4cb8736d-6bae-4a4c-bfb0-0ba8122a6a76",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.564367270356325,
+            73.9236758484802
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.762800",
+        "delivery_timestamp": "2025-03-05T10:29:42.762807",
+        "distance_km": 8.55,
+        "delivery_time_minutes": 102,
+        "order_volume": 1,
+        "store_capacity": 191,
+        "active_orders": 44,
+        "traffic_density": 2.4,
+        "weather_conditions": "Rainy"
+    },
+    {
+        "order_id": "2d58ed63-0d99-4ca1-b865-cc5f5b1f1175",
+        "customer_id": "680b4290-beba-48a9-9a51-cf0ae351e924",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.5905048650584,
+            73.93724427461893
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.763035",
+        "delivery_timestamp": "2025-03-05T11:18:42.763039",
+        "distance_km": 14.79,
+        "delivery_time_minutes": 151,
+        "order_volume": 8,
+        "store_capacity": 152,
+        "active_orders": 5,
+        "traffic_density": 2.05,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "ab75535e-c64b-444b-b546-faf583afd758",
+        "customer_id": "09c851f5-8adc-45bf-9a7d-416a2a3985fd",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.458128068704738,
+            73.94813671940705
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.763257",
+        "delivery_timestamp": "2025-03-05T09:24:42.763262",
+        "distance_km": 4.09,
+        "delivery_time_minutes": 37,
+        "order_volume": 5,
+        "store_capacity": 117,
+        "active_orders": 38,
+        "traffic_density": 1.81,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "ec31188a-2bef-480a-8fea-81336724b9a0",
+        "customer_id": "6da88e93-ecfb-4b61-bdf4-7b21fe95a809",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.570247168154577,
+            73.83986070522502
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.763478",
+        "delivery_timestamp": "2025-03-05T11:44:42.763482",
+        "distance_km": 14.29,
+        "delivery_time_minutes": 177,
+        "order_volume": 4,
+        "store_capacity": 198,
+        "active_orders": 25,
+        "traffic_density": 2.48,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "46c65870-2911-4681-b954-cb24d07941a2",
+        "customer_id": "b5c854cf-9f8f-4939-bb85-808ec8d264be",
+        "store_location": [
+            18.63001353598027,
+            73.88096000943577
+        ],
+        "customer_location": [
+            18.638420775553733,
+            73.91146012607294
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.763743",
+        "delivery_timestamp": "2025-03-05T09:18:42.763752",
+        "distance_km": 3.35,
+        "delivery_time_minutes": 31,
+        "order_volume": 10,
+        "store_capacity": 91,
+        "active_orders": 15,
+        "traffic_density": 1.87,
+        "weather_conditions": "Stormy"
+    },
+    {
+        "order_id": "578774ff-a6fc-4e2c-ba1c-e913d0195f6e",
+        "customer_id": "19629905-aa1c-47de-9cdd-9bdc8567ef59",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.622004850532146,
+            73.76687448068469
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.764024",
+        "delivery_timestamp": "2025-03-05T10:55:42.764033",
+        "distance_km": 16.14,
+        "delivery_time_minutes": 128,
+        "order_volume": 8,
+        "store_capacity": 171,
+        "active_orders": 35,
+        "traffic_density": 1.6,
+        "weather_conditions": "Clear"
+    },
+    {
+        "order_id": "5813cae5-5e96-4851-b9f6-00b5e3cc95f1",
+        "customer_id": "6807f20d-81bd-4d90-85d6-2aa1f1f16213",
+        "store_location": [
+            18.57060383744119,
+            73.90999271357788
+        ],
+        "customer_location": [
+            18.480089837182895,
+            73.9389837712071
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.764335",
+        "delivery_timestamp": "2025-03-05T09:43:42.764342",
+        "distance_km": 10.48,
+        "delivery_time_minutes": 56,
+        "order_volume": 9,
+        "store_capacity": 158,
+        "active_orders": 12,
+        "traffic_density": 1.08,
+        "weather_conditions": "Cloudy"
+    },
+    {
+        "order_id": "49633864-6ac5-4f74-9753-a91b1903f6e2",
+        "customer_id": "6a24e9c7-800a-4f71-a6cb-77360873af69",
+        "store_location": [
+            18.459555071066546,
+            73.90945569203349
+        ],
+        "customer_location": [
+            18.58445160435463,
+            73.84794134206479
+        ],
+        "order_timestamp": "2025-03-05T08:47:42.764620",
+        "delivery_timestamp": "2025-03-05T10:17:42.764627",
+        "distance_km": 15.27,
+        "delivery_time_minutes": 90,
+        "order_volume": 7,
+        "store_capacity": 169,
+        "active_orders": 13,
+        "traffic_density": 1.18,
+        "weather_conditions": "Stormy"
+    }
+]

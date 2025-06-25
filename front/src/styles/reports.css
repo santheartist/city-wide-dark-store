@@ -1,0 +1,124 @@
+/* Layout Container for the full page */
+.layout {
+  display: flex;
+  height: 100vh;
+}
+
+/* Sidebar */
+.ant-layout-sider {
+  background-color: #001529; /* Dark background for the sidebar */
+  transition: width 0.3s ease; /* Smooth transition for sidebar collapse */
+}
+
+.ant-layout-sider-collapsed {
+  width: 80px; /* Adjust width when collapsed */
+}
+
+/* Header Section */
+.header {
+  background-color: #001529;
+  color: white;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: white;
+}
+
+/* Content Section */
+.content {
+  padding: 16px;
+  background-color: #f0f2f5;
+  min-height: 100vh; /* Ensures content fills the rest of the page */
+}
+
+/* Report Preview Section */
+.report-preview {
+  margin-top: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  overflow-x: auto; /* Allow horizontal scrolling if needed */
+}
+
+/* Table Styling */
+.report-preview table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.report-preview th,
+.report-preview td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.report-preview th {
+  background-color: #f4f4f4;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.report-preview td {
+  font-size: 13px;
+}
+
+/* PDF Download Button */
+.PDFDownloadLink {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.PDFDownloadLink:hover {
+  background-color: #45a049;
+}
+
+/* Ensure Map component styles are well-adjusted */
+.map-container {
+  width: 100%;
+  height: 500px; /* Adjust the map height as needed */
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 20px;
+  }
+
+  .ant-layout-sider-collapsed {
+    width: 60px;
+  }
+
+  .content {
+    padding: 10px;
+  }
+
+  .report-preview {
+    padding: 10px;
+  }
+
+  .report-preview table {
+    font-size: 12px;
+  }
+
+  .PDFDownloadLink {
+    padding: 8px 16px;
+  }
+}

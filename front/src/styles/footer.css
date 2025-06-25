@@ -1,0 +1,29 @@
+/* Footer Styling (Dark Theme) */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #121212, #1f1f1f); /* Dark Gradient */
+  color: white;
+  width: 100%;
+  margin-top: auto; /* Keeps the footer at the bottom */
+}
+
+/* Footer Text */
+.footer p {
+  margin: 0;
+  opacity: 0.8;
+  font-size: 1rem;
+}
+
+/* Hover Effect */
+.footer p:hover {
+  opacity: 1; /* Full visibility on hover */
+  transition: opacity 0.3s ease;
+}
+
+/* Responsive Footer */
+@media (max-width: 768px) {
+  .footer {
+    font-size: 0.9rem;
+  }
+}

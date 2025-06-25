@@ -1,0 +1,119 @@
+/* General Page Styling */
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.login-box {
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Input Field Styling */
+input[type="email"],
+input[type="password"],
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="text"]:focus {
+  border-color: #0056b3;
+  outline: none;
+}
+
+/* Button Styling */
+button.btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #0056b3;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button.btn:disabled {
+  background-color: #ccc;
+}
+
+button.btn:hover:not(:disabled) {
+  background-color: #004a99;
+}
+
+/* Error Message Styling */
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* OTP Resend Timer Styling */
+p {
+  font-size: 14px;
+  color: #555;
+}
+
+button[type="button"] {
+  width: auto;
+  padding: 8px 16px;
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button[type="button"]:hover {
+  background-color: #e65c00;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 600px) {
+  .page-container {
+    padding: 10px;
+  }
+
+  .login-container {
+    width: 100%;
+    padding: 15px;
+  }
+
+  input[type="email"],
+  input[type="password"],
+  input[type="text"],
+  button.btn {
+    padding: 10px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+}
